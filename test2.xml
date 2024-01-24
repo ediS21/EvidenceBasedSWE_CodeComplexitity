@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/terryyin/lizard/master/lizard.xsl"?>
+<cppncss>
+    <measure type="File">
+		<labels>
+			<label>Nr.</label>
+			<label>NCSS</label>
+			<label>CCN</label>
+			<label>Functions</label>
+		</labels>
+		<item name="./fs/isofs/zisofs.h">
+			<value>1</value>
+			<value>3</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="./fs/isofs/joliet.c">
+			<value>2</value>
+			<value>73</value>
+			<value>18</value>
+			<value>3</value>
+		</item>
+		<item name="./fs/isofs/rock.h">
+			<value>3</value>
+			<value>79</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+        <item name="./fs/isofs/namei.c">
+			<value>4</value>
+			<value>142</value>
+			<value>31</value>
+			<value>3</value>
+		</item>
+		<item name="./fs/isofs/isofs.h">
+			<value>5</value>
+			<value>120</value>
+			<value>13</value>
+			<value>12</value>
+		</item>
+		<item name="./fs/isofs/export.c">
+			<value>6</value>
+			<value>158</value>
+			<value>29</value>
+			<value>5</value>
+		</item>
+    </measure>
+</cppncss>

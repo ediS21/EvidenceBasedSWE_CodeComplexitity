@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/terryyin/lizard/master/lizard.xsl"?>
+<cppncss>
+	<measure type="Function">
+		<labels>
+			<label>Nr.</label>
+			<label>NCSS</label>
+			<label>CCN</label>
+		</labels>
+		<item name="uni16_to_x8(...) at ./fs/isofs/joliet.c:17">
+			<value>1</value>
+			<value>19</value>
+			<value>4</value>
+		</item>
+		<item name="wcsntombs_be(...) at ./fs/isofs/joliet.c:42">
+			<value>2</value>
+			<value>26</value>
+			<value>7</value>
+		</item>
+		<item name="get_joliet_filename(...) at ./fs/isofs/joliet.c:72">
+			<value>3</value>
+			<value>22</value>
+			<value>7</value>
+		</item>
+		<average label="NCSS" value="22.333333333333332"/>
+		<average label="CCN" value="6.0"/>
+		<average label="NCSS" value="22.333333333333332"/>
+		<average label="CCN" value="6.0"/>
+        <item name="isofs_cmp(...) at ./fs/isofs/namei.c:19">
+			<value>4</value>
+			<value>19</value>
+			<value>6</value>
+		</item>
+		<item name="isofs_find_entry(...) at ./fs/isofs/namei.c:51">
+			<value>5</value>
+			<value>88</value>
+			<value>20</value>
+		</item>
+		<item name="isofs_lookup(...) at ./fs/isofs/namei.c:157">
+			<value>6</value>
+			<value>30</value>
+			<value>5</value>
+		</item>
+		<average label="NCSS" value="34.0"/>
+		<average label="CCN" value="8.166666666666666"/>
+    </measure>
+</cppncss>

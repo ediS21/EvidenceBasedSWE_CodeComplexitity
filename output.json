@@ -1,0 +1,32 @@
+[
+  {
+    "file_name": "./fs/isofs/zisofs.h",
+    "average_ncss": 0,
+    "average_ccn": 0
+  },
+  {
+    "file_name": "./fs/isofs/joliet.c",
+    "average_ncss": 24.333333333333332,
+    "average_ccn": 6.0
+  },
+  {
+    "file_name": "./fs/isofs/rock.h",
+    "average_ncss": 0,
+    "average_ccn": 0
+  },
+  {
+    "file_name": "./fs/isofs/namei.c",
+    "average_ncss": 47.333333333333336,
+    "average_ccn": 10.333333333333334
+  },
+  {
+    "file_name": "./fs/isofs/isofs.h",
+    "average_ncss": 10.0,
+    "average_ccn": 1.0833333333333333
+  },
+  {
+    "file_name": "./fs/isofs/export.c",
+    "average_ncss": 31.6,
+    "average_ccn": 5.8
+  }
+]
