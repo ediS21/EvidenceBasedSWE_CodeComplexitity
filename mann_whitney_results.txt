@@ -1,0 +1,84 @@
+Mann-Whitney U test between obs and vlc:
+Test Statistic: 1297.0, p-value: 1.4381418196786186e-32
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between obs and freebsd:
+Test Statistic: 0.0, p-value: 4.7568481050726115e-54
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between obs and sortix:
+Test Statistic: 1170.0, p-value: 3.1142999682234577e-05
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between obs and linux:
+Test Statistic: 0.0, p-value: 1.2967733399407746e-104
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between obs and llvm:
+Test Statistic: 32439.0, p-value: 8.1124997304066e-45
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between obs and gcc:
+Test Statistic: 9745.0, p-value: 4.900733288470476e-23
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between vlc and freebsd:
+Test Statistic: 1613.0, p-value: 3.0995141824421797e-22
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between vlc and sortix:
+Test Statistic: 570.0, p-value: 4.360623245469126e-05
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between vlc and linux:
+Test Statistic: 380.0, p-value: 2.52442342472495e-56
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between vlc and llvm:
+Test Statistic: 17098.0, p-value: 1.74476503745483e-41
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between vlc and gcc:
+Test Statistic: 4853.0, p-value: 9.742427750057626e-21
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between freebsd and sortix:
+Test Statistic: 816.0, p-value: 1.9548459801576147e-10
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between freebsd and linux:
+Test Statistic: 30667.0, p-value: 5.567906799956152e-17
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between freebsd and llvm:
+Test Statistic: 24616.0, p-value: 1.964471993553255e-52
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between freebsd and gcc:
+Test Statistic: 7127.0, p-value: 1.8678111014058406e-25
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between sortix and linux:
+Test Statistic: 0.0, p-value: 2.403030598921495e-05
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between sortix and llvm:
+Test Statistic: 0.0, p-value: 3.193525133758049e-05
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between sortix and gcc:
+Test Statistic: 3.0, p-value: 3.1071426684949096e-07
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between linux and llvm:
+Test Statistic: 147877.0, p-value: 1.4087278798658933e-98
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between linux and gcc:
+Test Statistic: 43301.0, p-value: 2.67871935602133e-34
+Reject the null hypothesis. There is a significant difference between the datasets.
+
+Mann-Whitney U test between llvm and gcc:
+Test Statistic: 8943.0, p-value: 1.1146297959307298e-21
+Reject the null hypothesis. There is a significant difference between the datasets.
+
