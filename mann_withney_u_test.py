@@ -3,8 +3,8 @@ import pandas as pd
 
 # Assuming you have loaded your data into Pandas DataFrames
 # Choose between aNCSS,aCC,aFunctions,sNCSS,sCCN,sFunctions
-obs_data = pd.read_csv('obs.csv')['aNCSS']
-vlc_data = pd.read_csv('vlc.csv')['aNCSS']
+obs_data = pd.read_csv('obs.csv')['sNCSS']
+vlc_data = pd.read_csv('vlc.csv')['sNCSS']
 
 # Perform Mann-Whitney U test
 statistic, p_value = mannwhitneyu(obs_data, vlc_data)

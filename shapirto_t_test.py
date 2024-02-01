@@ -2,8 +2,8 @@ from scipy.stats import shapiro
 import pandas as pd
 
 # load data into Pandas DataFrames
-obs_data = pd.read_csv('obs.csv')['sFunctions']
-vlc_data = pd.read_csv('vlc.csv')['sFunctions']
+obs_data = pd.read_csv('obs.csv')['sCCN']
+vlc_data = pd.read_csv('vlc.csv')['sCCN']
 
 # Shapiro-Wilk test for OBS data
 stat_obs, p_value_obs = shapiro(obs_data)
